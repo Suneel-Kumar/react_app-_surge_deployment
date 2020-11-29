@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>React App Deployment Surge. </p>
+        <p>React App Deployment Surge. <br /> Changes to react_project. </p>
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
